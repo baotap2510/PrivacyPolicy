@@ -8,7 +8,7 @@
   For a better experience, while using our Service, We may require you to provide us with certain personally identifiable information. The information that We request will be retained on your device and is not collected by us in any way retained by us and used as described in this privacy policy.
   The app does use services that may collect information used to identify you.
   Link to privacy policy of service providers used by the app
-* [Google Play Services](https://www.google.com/policies/privacy/)
+  
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 * [Firebase Analytics](https://firebase.google.com/policies/analytics)
 
